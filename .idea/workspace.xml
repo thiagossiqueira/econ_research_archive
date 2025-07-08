@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos_y_modelos/Domestic/brazil_domestic_corp_db.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/datos_y_modelos/Domestic/brazil_domestic_corp_db.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos_y_modelos/Domestic/brazil_supranational_db.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/datos_y_modelos/Domestic/brazil_supranational_db.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos_y_modelos/src/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/datos_y_modelos/src/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos_y_modelos/src/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/datos_y_modelos/src/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos_y_modelos/src/Curva Cero Bonos en Reales - BID.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/datos_y_modelos/src/Curva Cero Bonos en Reales - BID.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="versao laptop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thiagossiqueira/econ_research_archive.git",
+    "accountId": "e04b648c-8d8e-4a59-bca7-3491f7f1750d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -36,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing master",
-    "last_opened_file_path": "C:/Users/tsiqueira4/OneDrive - Bloomberg LP/Desktop/master_thesis_economics/datos_y_modelos/src/finmath/brazilian_bonds",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tsiqueira4/OneDrive - Bloomberg LP/Desktop/master_thesis_economics/datos_y_modelos/src/finmath/brazilian_bonds&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tsiqueira4\OneDrive - Bloomberg LP\Desktop\master_thesis_economics\datos_y_modelos\src\finmath\brazilian_bonds" />
@@ -81,10 +80,24 @@
       <workItem from="1751106926307" duration="719000" />
       <workItem from="1751227770377" duration="204000" />
       <workItem from="1751228762447" duration="4507000" />
+      <workItem from="1751933554262" duration="328000" />
     </task>
+    <task id="LOCAL-00001" summary="versao laptop">
+      <option name="closed" value="true" />
+      <created>1751933686522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751933686522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versao laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="versao laptop" />
   </component>
 </project>

@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="versao laptop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="versao laptop" />
+>>>>>>> 1cd08e1da1f081390a84445ee7a9058b7fc8504d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +31,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -39,6 +44,14 @@
     &quot;accountId&quot;: &quot;e04b648c-8d8e-4a59-bca7-3491f7f1750d&quot;
   }
 }</component>
+=======
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thiagossiqueira/econ_research_archive.git",
+    "accountId": "e04b648c-8d8e-4a59-bca7-3491f7f1750d"
+  }
+}]]></component>
+>>>>>>> 1cd08e1da1f081390a84445ee7a9058b7fc8504d
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -93,8 +106,12 @@
       <workItem from="1751106926307" duration="719000" />
       <workItem from="1751227770377" duration="204000" />
       <workItem from="1751228762447" duration="4507000" />
+<<<<<<< HEAD
       <workItem from="1751933554262" duration="526000" />
       <workItem from="1751934093873" duration="991000" />
+=======
+      <workItem from="1751933554262" duration="328000" />
+>>>>>>> 1cd08e1da1f081390a84445ee7a9058b7fc8504d
     </task>
     <task id="LOCAL-00001" summary="versao laptop">
       <option name="closed" value="true" />
@@ -103,6 +120,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1751933686522</updated>
+<<<<<<< HEAD
     </task>
     <task id="LOCAL-00002" summary="versao laptop">
       <option name="closed" value="true" />
@@ -121,11 +139,16 @@
       <updated>1751934043063</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 1cd08e1da1f081390a84445ee7a9058b7fc8504d
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -137,6 +160,8 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 1cd08e1da1f081390a84445ee7a9058b7fc8504d
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versao laptop" />
     <option name="LAST_COMMIT_MESSAGE" value="versao laptop" />

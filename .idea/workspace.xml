@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="versao laptop" />
+    <list default="true" id="96164a30-bb64-40a9-835e-8060e01893f8" name="Changes" comment="versao laptop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +20,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tsiqueira4 &lt;thiagossiqueira@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/thiagossiqueira/econ_research_archive.git",
-    "accountId": "e04b648c-8d8e-4a59-bca7-3491f7f1750d"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thiagossiqueira&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thiagossiqueira/econ_research_archive.git&quot;,
+    &quot;accountId&quot;: &quot;e04b648c-8d8e-4a59-bca7-3491f7f1750d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -80,7 +93,8 @@
       <workItem from="1751106926307" duration="719000" />
       <workItem from="1751227770377" duration="204000" />
       <workItem from="1751228762447" duration="4507000" />
-      <workItem from="1751933554262" duration="328000" />
+      <workItem from="1751933554262" duration="526000" />
+      <workItem from="1751934093873" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="versao laptop">
       <option name="closed" value="true" />
@@ -90,11 +104,38 @@
       <option name="project" value="LOCAL" />
       <updated>1751933686522</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="versao laptop">
+      <option name="closed" value="true" />
+      <created>1751934011479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751934011479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="versao laptop">
+      <option name="closed" value="true" />
+      <created>1751934043063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751934043063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versao laptop" />

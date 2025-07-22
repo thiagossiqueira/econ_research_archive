@@ -1,6 +1,3 @@
-"""
-Author: Gustavo Soares
-"""
 
 from typing import Union, Collection, Optional, Tuple
 
